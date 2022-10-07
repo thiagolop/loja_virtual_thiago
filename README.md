@@ -1,16 +1,27 @@
-# loja_virtual_thiago
+# Loja Virtual Thiago Flamengo
 
-A new Flutter project.
+Aplicativo desenvolvido com base no curso ministrado por Daniel Cilfi, no qual eu me propus a atualizar-lo para a versão null safe do Flutter.
+O app é basicamente uma replica de uma loja com produtos do Flamengo.
+O código apresenta a minha evolução durante os estudos em Flutter, uma vez que me propus a aprender do zero o Dart/Flutter.
 
-## Getting Started
+# Aprendizado
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Firebase Auth.
+Firebase Database 
+Firebase Storage.
+Navegação via Drawer.
+Algoritmos de ordenação.
+Navegação e rotas.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Pontos a serem melhorados
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Organização de código.
+Componentização.
+Organização de pastas.
+Atualização de packages.
+Implementação de testes.
+
+
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/109871891/194452179-374d3d61-689d-49da-8b4c-21bd758b5a74.gif)
